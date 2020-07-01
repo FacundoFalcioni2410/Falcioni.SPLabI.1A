@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1593615363 source:c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593182248 c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\linkedlist.h
+
+1589220076 source:c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589219982 c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\utn.h
+
+1593615404 source:c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Pais.h"
+	"LinkedList.h"
+	"utn.h"
+	"parser.h"
+
+1593615363 c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\pais.h
+	"LinkedList.h"
+
+1593615423 source:c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\pais.c
+	"Pais.h"
+	"LinkedList.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1593610920 source:c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\parser.c
+	"Pais.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+
+1593615363 c:\users\facu falcioni\desktop\utn\programacion i-laboratorio i\segundo parcial laboratorio i\falcioni.splabi.1a\falcioni.splabi.1a\parser.h
+	"LinkedList.h"
+	"Pais.h"
+
